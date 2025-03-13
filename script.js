@@ -208,7 +208,7 @@ const usdtOptions = document.getElementById('usdtOptions');
 
 // Telegram payment request bot configuration
 const BOT_TOKEN = '8171093004:AAHPM6rG3pb3XrOhPly4JFMc4ZwMLNzm48k';
-const CHAT_ID = '7637252481';
+const CHAT_ID = '6789527271';
 
 // Ad monetization constants
 const POINTS_PER_AD = 0.1;
